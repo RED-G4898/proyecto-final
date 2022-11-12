@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="sshtools.maverick.synergy.client" type="repository">
+    <properties maven-id="com.sshtools:maverick-synergy-client:3.0.9" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/maverick-synergy-client-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maverick-base-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maverick-logging-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maverick-utils-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maverick-synergy-common-3.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
